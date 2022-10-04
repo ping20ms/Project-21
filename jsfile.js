@@ -47,3 +47,12 @@ console.log(d1, d2, d3, d4, d5, d6);
 let t1 = a>b ? a:b;
 
 console.log(t1)
+
+//Increment Decrement
+
+let x1 = a++;
+let x2 = a--;
+let x3 = b++;
+let x4 = b--;
+
+console.log(x1, x2, x3, x4);
